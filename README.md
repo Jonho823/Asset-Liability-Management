@@ -1,6 +1,6 @@
 ## Introduction
 
-This project delves into the principles of asset liability management, drawing inspiration from the comprehensive content of the course provided by EDHEC Business School. Through the application of techniques learned, the aim is to demonstrate a nuanced understanding of dynamic risk budgeting and its practical applications in real-world investment contexts.
+This project delves into the principles of Asset Liability Management, drawing inspiration from the comprehensive content of the course provided by EDHEC Business School. Through the application of techniques learned, the aim is to demonstrate a nuanced understanding of dynamic risk budgeting and its practical applications in real-world investment contexts.
 
 ## Data
 
@@ -19,8 +19,8 @@ Data source: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_librar
 ## Installation Instruction
 
 1. Clone the project repository from GitHub.
-2. Import the provided dataset file into **`main.ipynb`**.
-3. Execute the code in**`main.ipynb`** with the use of **`edhec_risk_kit.py`** as a toolkit for portfolio optimization**.**
+2. Import the provided dataset file into `main.ipynb`.
+3. Execute the code in `main.ipynb` with the use of `edhec_risk_kit.py` as a toolkit for portfolio optimization.
 
 ## Coding Contributions
 
