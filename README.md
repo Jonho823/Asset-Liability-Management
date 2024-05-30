@@ -20,7 +20,7 @@ Data source: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_librar
 
 1. Clone the project repository from GitHub.
 2. Import the provided dataset file into `main.ipynb`.
-3. Execute the code in `main.ipynb` with the use of `edhec_risk_kit.py` as a toolkit for portfolio optimization.
+3. Execute the code in `main.ipynb` with the use of `edhec_risk_kit.py` as a toolkit for simulation and capital allocation.
 
 ## Coding Contributions
 
